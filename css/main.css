@@ -3,6 +3,7 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.center { margin: 0 auto ; position: relative; width: 600px; display: block;}
 
 @media (min-width: 768px) {
     .hero-unit-bg {
